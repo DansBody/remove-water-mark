@@ -1,0 +1,5 @@
+{
+  "name": "NeonEraser - AI Watermark Remover",
+  "description": "A futuristic, glassmorphism-styled tool to intelligently remove watermarks from images using Gemini AI.",
+  "requestFramePermissions": []
+}
